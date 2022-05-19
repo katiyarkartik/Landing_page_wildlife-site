@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Landing_page_wildlife-site/static/css/main.3996e440.css",
+    "main.js": "/Landing_page_wildlife-site/static/js/main.06089af2.js",
+    "static/media/bg6.jpg": "/Landing_page_wildlife-site/static/media/bg6.7c2c724f55c92aa809a0.jpg",
+    "static/media/NatGeoWild.png": "/Landing_page_wildlife-site/static/media/NatGeoWild.cc5e2de1b9a3353d1484.png",
+    "index.html": "/Landing_page_wildlife-site/index.html",
+    "main.3996e440.css.map": "/Landing_page_wildlife-site/static/css/main.3996e440.css.map",
+    "main.06089af2.js.map": "/Landing_page_wildlife-site/static/js/main.06089af2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3996e440.css",
+    "static/js/main.06089af2.js"
+  ]
+}
