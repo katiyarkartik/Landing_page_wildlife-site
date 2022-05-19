@@ -289,7 +289,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
  .txt{
  display: none;
  text-align: center;
- transition: visibility 0s, opacity 0.5s linear;
+
 
  }
 .head:hover{
